@@ -670,6 +670,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.09185)]
 * **DeWorldSG**: "DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00889)]
 * **ABot-M0.5**: "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00678)]
 * "Path Planning in Physically Viable World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00673)]
