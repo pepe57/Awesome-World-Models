@@ -79,6 +79,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Survey
+* "From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11689)]
 * "From World Models to World Action Models: A Concise Tutorial for Robotics", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00836)]
 * "Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24152)]
 * "Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16721)]
@@ -209,6 +210,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Cycle-World**: "Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11836)]
+* **ABot-3DWorld 0**: "ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11673)]
+* "A Control Theory of Predictability in Latent World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.10362)]
 * **RetailSMV**: "RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00310)]
 * **AdaJEPA**: "AdaJEPA: An Adaptive Latent World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.32026)]
 * **MemLearner**: "MemLearner: Learning to Query Context memory for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.31734)]
@@ -670,6 +674,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **Xiaomi-Robotics-U0**: "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11643)]
 * "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.09185)]
 * **DeWorldSG**: "DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00889)]
 * **ABot-M0.5**: "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00678)]
@@ -1019,6 +1024,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* "Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.10781)]
+* "World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.10630)]
 * **Valdi**: "Valdi: Value Diffusion World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00917)]
 * **OWMDrive**: "OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.30421)]
 * **LWDrive**: "LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.29879)]
