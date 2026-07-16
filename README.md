@@ -210,6 +210,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "From Pixels to States: Rethinking Interactive World Models as Game Engines", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14076)]
+* "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13172)]
 * **Cycle-World**: "Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11836)]
 * **ABot-3DWorld 0**: "ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11673)]
 * "A Control Theory of Predictability in Latent World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.10362)]
@@ -674,6 +676,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13653)]
+* **Worlds in One Demo**: "Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13154)]
+* **FlowWAM**: "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13017)]
 * **Xiaomi-Robotics-U0**: "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11643)]
 * "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.09185)]
 * **DeWorldSG**: "DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00889)]
@@ -1025,6 +1030,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **M$^\text{4}$World**: "M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14005)]
+* "Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13410)]
 * "Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.10781)]
 * "World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.10630)]
 * **Valdi**: "Valdi: Value Diffusion World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00917)]
