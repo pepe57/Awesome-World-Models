@@ -210,6 +210,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Concept-Guided Spatial Regularization for World Models in Atari Pong", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15142)]
+* **DriftWorld**: "DriftWorld: Fast World Modeling through Drifting", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15065)]
+* **RENEW**: "RENEW: Towards Learning World Models and Repairing Model Exploitation from Preferences", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14180)]
 * "From Pixels to States: Rethinking Interactive World Models as Game Engines", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14076)]
 * "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13172)]
 * **Cycle-World**: "Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11836)]
@@ -676,6 +679,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **BadWAM**: "BadWAM: When World-Action Models Dream Right but Act Wrong", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15207)]
+* "Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14943)]
 * "Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13653)]
 * **Worlds in One Demo**: "Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13154)]
 * **FlowWAM**: "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13017)]
