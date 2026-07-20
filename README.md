@@ -1035,6 +1035,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **Orbis 2**: "Orbis 2: A Hierarchical World Model for Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15898)]
 * **M$^\text{4}$World**: "M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14005)]
 * "Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13410)]
 * "Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.10781)]
