@@ -210,6 +210,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **SAGE**: "SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17973)]
+* "Mobile Network Control with a World Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17747)]
 * "Concept-Guided Spatial Regularization for World Models in Atari Pong", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15142)]
 * **DriftWorld**: "DriftWorld: Fast World Modeling through Drifting", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15065)]
 * **RENEW**: "RENEW: Towards Learning World Models and Repairing Model Exploitation from Preferences", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14180)]
@@ -679,6 +681,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Test-Time Scaling for World Action Models via Zero-Shot Geometric Evaluation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17454)]
 * **BadWAM**: "BadWAM: When World-Action Models Dream Right but Act Wrong", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15207)]
 * "Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14943)]
 * "Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13653)]
@@ -1035,6 +1038,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **GeoWorldAD**: "GeoWorldAD: Geometry World Action Model for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17521)]
 * **Orbis 2**: "Orbis 2: A Hierarchical World Model for Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15898)]
 * **M$^\text{4}$World**: "M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14005)]
 * "Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13410)]
