@@ -210,6 +210,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **ABot-World-0**: "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19191)]
+* **FilmWorld**: "FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19038)]
+* **DWM**: "DWM: Separating World Effects from Actions in Latent World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18715)]
+* **AlayaWorld**: "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18367)]
 * **SAGE**: "SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17973)]
 * "Mobile Network Control with a World Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17747)]
 * "Concept-Guided Spatial Regularization for World Models in Atari Pong", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15142)]
@@ -681,6 +685,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Masked Visual Actions for Unified World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19343)]
+* **WorldScape Policy 2.0**: "WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18840)]
+* **RoboInter1.5**: "RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18709)]
 * "Test-Time Scaling for World Action Models via Zero-Shot Geometric Evaluation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17454)]
 * **BadWAM**: "BadWAM: When World-Action Models Dream Right but Act Wrong", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15207)]
 * "Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14943)]
