@@ -132,6 +132,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **KineBench**: "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19876)]
 * **WorldRoamBench**: "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.31672)]
 * "A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.28757)]
 * **PhysEditWorld**: "PhysEditWorld: A Large-Scale Dataset Toward Physics-Editable World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26694)]
@@ -210,6 +211,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Dreamer-CPC**: "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19809)]
+* **Koopman Dreamer**: "Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19719)]
 * **ABot-World-0**: "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19191)]
 * **FilmWorld**: "FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19038)]
 * **DWM**: "DWM: Separating World Effects from Actions in Latent World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18715)]
@@ -1045,6 +1048,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* "PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20175)]
 * **GeoWorldAD**: "GeoWorldAD: Geometry World Action Model for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17521)]
 * **Orbis 2**: "Orbis 2: A Hierarchical World Model for Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15898)]
 * **M$^\text{4}$World**: "M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.14005)]
