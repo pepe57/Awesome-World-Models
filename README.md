@@ -212,6 +212,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **PhysCoRe**: "PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20653)]
 * **Dreamer-CPC**: "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19809)]
 * **Koopman Dreamer**: "Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19719)]
 * **ABot-World-0**: "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19191)]
@@ -1049,6 +1050,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **HyWorldVLA**: "HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20988)]
 * "PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20175)]
 * **GeoWorldAD**: "GeoWorldAD: Geometry World Action Model for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17521)]
 * **Orbis 2**: "Orbis 2: A Hierarchical World Model for Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.15898)]
